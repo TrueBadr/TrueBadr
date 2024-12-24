@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TrueBadr.TrueBadr&"  />
-</div>
-
-###
-
 <h1 align="center">Say  his name and he appers</h1>
 
 ###
